@@ -46,8 +46,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/anhtoan260497/anhtoan260497/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <br clear="both">
