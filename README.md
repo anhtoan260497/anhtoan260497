@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Anh Toan. I'm a Junior Web and Fresher Blockchain developer from Vietnam<br><br>I always believe in the saying "Do your best and God will take care of the rest."</h3>
+<h3 align="left">Hi 👋! My name is Anh Toan. I'm a Junior developer from Vietnam<br><br>I always believe in the saying "Do your best and God will take care of the rest."</h3>
 
 ###
 
